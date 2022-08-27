@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 28 11:51:52 2021
 
-@author: reb00762
+@author: rebecca
 """
 
 from variables import leapfrog_variables
